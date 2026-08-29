@@ -1,1 +1,4 @@
 # Greenden-TailwindCss
+The Greenden project is a responsive, eco-themed web application designed as an online plant store to promote sustainable living. Developers often build it as a frontend portfolio piece to showcase modern UI design.
+Core FeaturesEco-Friendly Theme: Uses green color palettes and nature-inspired sections to highlight sustainable gardening.Responsive Layout: Adjusts smoothly across mobile phones, tablets, and desktop computers.Interactive Elements: Includes product cards, search filters, and smooth navigation.
+Main PagesHome Page: Welcomes visitors with a brand introduction, featured best-sellers, and customer reviews.Product Page: Displays a catalog of indoor and outdoor plants with clean card grids.Contact Page: Features a user-friendly form so customers can easily reach out with questions.
